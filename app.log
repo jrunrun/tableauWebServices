@@ -1,0 +1,95 @@
+2021-06-03 19:33:32 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622766812.008207, 'vertical': ''} 
+2021-06-03 19:33:32 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3NjY4MTIuMDA4MjA3LCJ2ZXJ0aWNhbCI6IiJ9.cpaLj-Tt_hBtYesP4Y0hRxp3gjHmBq6aE_dhvoJZV-M 
+2021-06-03 19:33:32 : [STATUS] Requesting trusted ticket for jcraycraft on   
+2021-06-03 19:33:32 : [STATUS] Received ticket response without error 
+2021-06-03 19:33:32 : [STATUS] Ticket is : WQdZ7wfvRO-aPFnqFYJshg==:nQkjHraUwQDAd0_wJ2yRdX2E 
+2021-06-03 19:34:47 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622766887.830894, 'vertical': ''} 
+2021-06-03 19:34:47 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3NjY4ODcuODMwODk0LCJ2ZXJ0aWNhbCI6IiJ9.Sgv2J0vxwDn2nFcnhb-19AvV7HUToCC37YhsN_hjOEM 
+2021-06-03 19:34:47 : [STATUS] Requesting trusted ticket for jcraycraft on   
+2021-06-03 19:34:47 : [STATUS] Received ticket response without error 
+2021-06-03 19:34:47 : [ERROR] Error in trusted ticket response from broker: Expecting value: line 1 column 1 (char 0) 
+2021-06-03 19:34:47 : [STATUS] Response from broker was: <Response [404]> 
+2021-06-03 19:37:03 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622767023.937141, 'vertical': ''} 
+2021-06-03 19:37:03 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3NjcwMjMuOTM3MTQxLCJ2ZXJ0aWNhbCI6IiJ9.-XnAi2SJ_hKWQK81-7n91AN5htK1u9tuNSRrRJkzLOI 
+2021-06-03 19:37:03 : [STATUS] Requesting trusted ticket for jcraycraft on   
+2021-06-03 19:37:04 : [STATUS] Received ticket response without error 
+2021-06-03 19:37:04 : [ERROR] Error in trusted ticket response from broker: Expecting value: line 1 column 1 (char 0) 
+2021-06-03 19:37:04 : [STATUS] Response from broker was: <Response [500]> 
+2021-06-03 19:38:33 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622767113.9139001, 'vertical': 'retail'} 
+2021-06-03 19:38:33 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3NjcxMTMuOTEzOTAwMSwidmVydGljYWwiOiJyZXRhaWwifQ.QWuuqtP_skhycFUMwF-Rw6P-_6yavDIhjJ-BUZg-HeE 
+2021-06-03 19:38:33 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 19:38:34 : [STATUS] Received ticket response without error 
+2021-06-03 19:38:34 : [ERROR] Error in trusted ticket response from broker: Expecting value: line 1 column 1 (char 0) 
+2021-06-03 19:38:34 : [STATUS] Response from broker was: <Response [500]> 
+2021-06-03 19:43:05 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622767385.4445388, 'vertical': 'retail'} 
+2021-06-03 19:43:05 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3NjczODUuNDQ0NTM4OCwidmVydGljYWwiOiJyZXRhaWwifQ.z_HAxsqAhhyp1zNbITTt5_Sg3tO81Cbb4EpmJJSvmXw 
+2021-06-03 19:43:05 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 19:43:52 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622767432.1893818, 'vertical': 'retail'} 
+2021-06-03 19:43:52 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3Njc0MzIuMTg5MzgxOCwidmVydGljYWwiOiJyZXRhaWwifQ.X-Ujko-fZjVyAd2R2lCU8rgB9JpPu82oBD8LsyhwPHE 
+2021-06-03 19:43:52 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 19:43:52 : [STATUS] Received ticket response without error 
+2021-06-03 19:43:52 : [ERROR] Error in trusted ticket response from broker: Expecting value: line 1 column 1 (char 0) 
+2021-06-03 19:43:52 : [STATUS] Response from broker was: <Response [500]> 
+2021-06-03 19:45:59 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622767559.522249, 'vertical': 'retail'} 
+2021-06-03 19:45:59 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3Njc1NTkuNTIyMjQ5LCJ2ZXJ0aWNhbCI6InJldGFpbCJ9.2p642crNMS5o64AbIxOjq_Dizk5Znnxcy0Xw5TEyP98 
+2021-06-03 19:45:59 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 19:46:10 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622767570.615015, 'vertical': 'retail'} 
+2021-06-03 19:46:10 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3Njc1NzAuNjE1MDE1LCJ2ZXJ0aWNhbCI6InJldGFpbCJ9.K3tEsNRukEgabesO3zYvB1Vsk75LIpf42J0lLmRreJ4 
+2021-06-03 19:46:10 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 19:47:00 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622767620.0769029, 'vertical': 'retail'} 
+2021-06-03 19:47:00 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3Njc2MjAuMDc2OTAyOSwidmVydGljYWwiOiJyZXRhaWwifQ.gZNszCvfi-i-oi9hmVcUJmnZ1TZTURF0hxoQy6l3rYs 
+2021-06-03 19:47:00 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 19:52:01 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622767921.928679, 'vertical': 'retail'} 
+2021-06-03 19:52:01 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3Njc5MjEuOTI4Njc5LCJ2ZXJ0aWNhbCI6InJldGFpbCJ9.rMv8MAHdYfVhf5bozMFFZcVkgYKQQGOEAMiWr-vlH4g 
+2021-06-03 19:52:01 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 19:52:02 : [STATUS] Received ticket response without error 
+2021-06-03 19:52:02 : [ERROR] Error in trusted ticket response from broker: Expecting value: line 1 column 1 (char 0) 
+2021-06-03 19:52:02 : [STATUS] Response from broker was: <Response [500]> 
+2021-06-03 19:52:20 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622767940.0363379, 'vertical': 'retail'} 
+2021-06-03 19:52:20 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3Njc5NDAuMDM2MzM3OSwidmVydGljYWwiOiJyZXRhaWwifQ.HWGp7eIB4juY2FVXpgA0LHybYicjOMyGLpvk96SMGzo 
+2021-06-03 19:52:20 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 19:52:20 : [STATUS] Received ticket response without error 
+2021-06-03 19:52:20 : [ERROR] Error in trusted ticket response from broker: Expecting value: line 1 column 1 (char 0) 
+2021-06-03 19:52:20 : [STATUS] Response from broker was: <Response [500]> 
+2021-06-03 19:55:33 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622768133.834921, 'vertical': 'retail'} 
+2021-06-03 19:55:33 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3NjgxMzMuODM0OTIxLCJ2ZXJ0aWNhbCI6InJldGFpbCJ9.9A0c9nko4u8mHokgw775ZvsAOMh44XHOrQ_aDi-VyCg 
+2021-06-03 19:55:33 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 19:55:34 : [STATUS] Received ticket response without error 
+2021-06-03 19:55:34 : [ERROR] Error in trusted ticket response from broker: Expecting value: line 1 column 1 (char 0) 
+2021-06-03 19:55:34 : [STATUS] Response from broker was: <Response [500]> 
+2021-06-03 19:57:32 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622768252.770944, 'vertical': 'retail'} 
+2021-06-03 19:57:32 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3NjgyNTIuNzcwOTQ0LCJ2ZXJ0aWNhbCI6InJldGFpbCJ9.FHlRPMGjMgTsXUVVqi7LN4BC6-7i0LmfRrS8cMQfe6s 
+2021-06-03 19:57:32 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 19:57:33 : [STATUS] Received ticket response without error 
+2021-06-03 19:57:33 : [STATUS] Ticket is : KWLjAl6PR226gaoVhgzFgg==:FiA_C19Ny2f8VjbMrwLNvTiZ 
+2021-06-03 19:59:28 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622768368.607027, 'vertical': 'retail'} 
+2021-06-03 19:59:28 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3NjgzNjguNjA3MDI3LCJ2ZXJ0aWNhbCI6InJldGFpbCJ9.fk9BFe5IRWg9xoFVpifuRe_Li9F9eJls_JqJvKmFkoc 
+2021-06-03 19:59:28 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 19:59:28 : [STATUS] Received ticket response without error 
+2021-06-03 19:59:28 : [STATUS] Ticket is : EO-PJ0buQrO7xOhCqpUDrA==:8Bjz4rM-s2q4KfaSlZa4f2z- 
+2021-06-03 20:11:28 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622769088.794229, 'vertical': 'retail'} 
+2021-06-03 20:11:28 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3NjkwODguNzk0MjI5LCJ2ZXJ0aWNhbCI6InJldGFpbCJ9.MVSxpiU2TjMWhmt5598CZpI7M4yoms28ABOTz31m73k 
+2021-06-03 20:11:28 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 20:11:29 : [STATUS] Received ticket response without error 
+2021-06-03 20:11:29 : [STATUS] Ticket is : i-e98teRTbqcfc-pbKqc_A==:RSE7DLMB_-aW5gv-nGuNdrzY 
+2021-06-03 20:11:46 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622769106.205747, 'vertical': 'retail'} 
+2021-06-03 20:11:46 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3NjkxMDYuMjA1NzQ3LCJ2ZXJ0aWNhbCI6InJldGFpbCJ9.qAILSIYYIFbyVlZZcFNiuIR-oCzhkK5Tt7UgLyU79Jc 
+2021-06-03 20:11:46 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 20:11:46 : [STATUS] Received ticket response without error 
+2021-06-03 20:11:46 : [ERROR] Error in trusted ticket response from broker: Expecting value: line 1 column 1 (char 0) 
+2021-06-03 20:11:46 : [STATUS] Response from broker was: <Response [500]> 
+2021-06-03 20:15:31 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622769331.099941, 'vertical': 'retail'} 
+2021-06-03 20:15:31 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3NjkzMzEuMDk5OTQxLCJ2ZXJ0aWNhbCI6InJldGFpbCJ9.MDuaKo54Ecf6pdVk9Fvx7qmEhbici8oJSVL7ASPBxQU 
+2021-06-03 20:15:31 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 20:15:31 : [STATUS] Received ticket response without error 
+2021-06-03 20:15:31 : [ERROR] Error in trusted ticket response from broker: Expecting value: line 1 column 1 (char 0) 
+2021-06-03 20:15:31 : [STATUS] Response from broker was: <Response [500]> 
+2021-06-03 20:16:34 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622769394.651062, 'vertical': 'retail'} 
+2021-06-03 20:16:34 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3NjkzOTQuNjUxMDYyLCJ2ZXJ0aWNhbCI6InJldGFpbCJ9.CI93jZ1ppKzk5nI2-vgsAu7818TGgLbu-OROoxnzvgM 
+2021-06-03 20:16:34 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 20:17:20 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622769440.231702, 'vertical': 'retail'} 
+2021-06-03 20:17:20 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3Njk0NDAuMjMxNzAyLCJ2ZXJ0aWNhbCI6InJldGFpbCJ9.cU_QUTHd7WsnsOKYfXWgeEnbyvmzQQZbLxF-BCvw9N8 
+2021-06-03 20:17:20 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
+2021-06-03 20:18:03 : [STATUS] JWT Payload is: {'username': 'jcraycraft', 'iat': 1622769483.73856, 'vertical': 'retail'} 
+2021-06-03 20:18:03 : [STATUS] Encoded JWT being sent: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImpjcmF5Y3JhZnQiLCJpYXQiOjE2MjI3Njk0ODMuNzM4NTYsInZlcnRpY2FsIjoicmV0YWlsIn0.ydYvprntWl_5TbP_RsGXYbSTZx7AtUHhs3KpY2AWIl8 
+2021-06-03 20:18:03 : [STATUS] Requesting trusted ticket for jcraycraft on retail  
